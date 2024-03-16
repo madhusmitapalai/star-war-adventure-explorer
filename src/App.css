@@ -42,7 +42,7 @@
 
 header {
   text-align: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
 }
 
 .logo {
@@ -115,7 +115,7 @@ header {
 .character-profile-img {
   position: relative;
   z-index: 2;
-  height: 250px;
+  height: 300px;
   width: 230px;
   object-fit: cover;
 }
