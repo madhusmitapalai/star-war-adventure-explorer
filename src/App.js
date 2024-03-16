@@ -24,6 +24,7 @@ const App = () => {
 
   useEffect(() => {
     getCharacters();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const getCharacters = async () => {
