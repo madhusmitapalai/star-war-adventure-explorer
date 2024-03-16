@@ -75,6 +75,7 @@ const App = () => {
     } catch (error) {
       console.error("Error adding character:", error);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [lastCharacterCount]);
 
   const getFilm = async (character) => {
