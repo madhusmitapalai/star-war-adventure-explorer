@@ -1,0 +1,6 @@
+const CONSTANTS = {
+    MAX_CHARACTER_COUNT: 3,
+    STATUS_SUCCESS: 200
+}
+
+export default CONSTANTS;
